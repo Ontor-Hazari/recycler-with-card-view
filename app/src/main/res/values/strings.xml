@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+      <string-array name="cityname" >
+
+         <item>Dhaka</item>
+          <item>Chittagong</item>
+          <item>Sylhet</item>
+          <item>Barishal</item>
+          <item>Khulna</item>
+          <item>Rajsahi</item>
+          <item>Rangpur</item>
+      </string-array>
+    
+</resources>
